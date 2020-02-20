@@ -1,0 +1,16 @@
+{
+  "Empresas": [
+      {
+          "empresa": "Fedex",
+          "tiempo": "3 dias"
+      },
+      {
+          "empresa": "Correos del Ecuador",
+          "tiempo": "12 dias"
+      },
+      {
+          "empresa": "Servi Entrega",
+          "tiempo": "8 dias"
+      }
+  ]
+}
